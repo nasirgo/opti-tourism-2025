@@ -1,0 +1,6 @@
+pandas
+numpy
+textblob
+openpyxl
+requests
+google-generativeai
